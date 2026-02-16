@@ -37,8 +37,9 @@ make
 This will generate: `libftprintf.a`
 
 ---
+## 📖 Instructions
 
-## 🛠️ Compilation
+### 🛠️ Compilation
 
 ### Makefile Rules
 
@@ -301,8 +302,9 @@ make
 Bu komut şunu oluşturacak: `libftprintf.a`
 
 ---
+## 📖 Talimatlar
 
-## 🛠️ Derleme
+### 🛠️ Derleme
 
 ### Makefile Kuralları
 
